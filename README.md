@@ -1,7 +1,16 @@
-# Fenmo Assignment
+# Expense Tracker (Fenmo Assignment)
 
-## Description
-This is a simple Streamlit application.
+## Features
+- Add expense (amount, category, description, date)
+- View expenses
+- Filter by category
+- Sort by date (newest first)
+- Show total amount
 
-## How to run
-streamlit run app.py
+## Tech Used
+- Streamlit
+- Python
+
+## Notes
+- Used in-memory storage (session state)
+- Simplified backend due to time constraint
